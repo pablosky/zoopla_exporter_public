@@ -1,5 +1,5 @@
 
-This is just a small library that downloads from the xml api of zoomla
+This is just a small library that downloads from the xml api of zoopla
 
 To run it you need php, our you can call it from any function in wordpress
 
